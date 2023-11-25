@@ -1,0 +1,25 @@
+
+
+#navbarScrollingDropdown{
+    color: rgb(253, 177, 0);
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+    text-shadow: -1px 0 black,0 1px black,1px 0 black,0 -1px black;
+}
+#navbarScrollingDropdown:hover{
+    font-size: 21px;
+    
+}
+.Navitems:hover{
+    color:rgb(253, 177, 0) ;
+}
+.Navitems{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+}
+.drowpdown{
+background-color: rgb(240, 180, 50);
+font-weight: 500;
+}

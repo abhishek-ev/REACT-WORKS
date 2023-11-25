@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+ 
+    
+}
+.LandingPageNav{
+   
+    height: 100px;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    padding: 0 80px;
+    background-color: black;
+    justify-content: space-between;
+    
+    
+}
+.logos h1{
+ font-size: 50px;
+ font-weight: 700;
+padding: 20px 50px;
+color: rgb(5, 109, 80);
+
+}
+
+ .navitems ul a{
+    text-decoration: none;
+    color: rgb(5, 109, 80);
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px 50px;
+    
+} 
+
+.navitems ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+.contsiner1{
+    width:100%;
+    height: 100vh;
+    position: relative;
+}
+.vedionew video{
+    width: 100%;
+    height: 100%;
+}
+.mainh1{
+    position: absolute;
+    top:0;
+    left: 0;
+    background: #000;
+    height: 100%;
+    width: 100%;
+    color: #fff;
+    mix-blend-mode: multiply;
+    display: flex;
+    justify-content: center;
+
+}
+.mainh1 h1{
+ 
+    font-size: 130px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-top: 250px;
+}
+
